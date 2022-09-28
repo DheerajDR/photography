@@ -6,8 +6,8 @@ function MenuLinks() {
         <ul>
             <NavLink to="/about"><li>About</li></NavLink>
             <NavLink to="/contact"><li>Contact</li></NavLink>
-            <a href="https://www.alamy.com/portfolio/113387.html"><li>Digital Downloads</li></a>
-            <a href="https://shop.meganmccartyphotography.com"><li>Prints</li></a>
+            <a href="https://unsplash.com"><li>Download images from unsplash</li></a>
+            <a href="https://github.com/DheerajDR"><li>Our Github</li></a>
         </ul>
     )
 }

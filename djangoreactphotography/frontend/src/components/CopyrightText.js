@@ -59,7 +59,7 @@ class CopyrightText extends React.Component {
         return (
             this.state.showContextMenu ?
                 <span id="context-menu" style={{ 'left': this.state.xPos, 'top': this.state.yPos, 'opacity': this.state.opacity }}>
-                    Photo © Megan McCarty
+                    Photo © TEAM VIPER
                 </span>
                 : null
         )

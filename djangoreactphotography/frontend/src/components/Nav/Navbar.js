@@ -17,7 +17,7 @@ function Navbar() {
             <div id="logo">
                 <NavLink to="/"><img src={logo} className="noStopSteal" alt="Camera logo with a butterfly on the top left of the camera"></img></NavLink>
             </div>
-            <NavLink to="/"><h1>Megan McCarty Photography</h1></NavLink>
+            <NavLink to="/"><h1>TEAM VIPER Photography</h1></NavLink>
             <span onClick={handleClick} id="menu-btn">
                 &#9776; Menu
                 <div id="nav" className={menuShown ? 'open' : 'closed'}>
